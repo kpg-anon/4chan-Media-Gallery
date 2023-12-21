@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>🖼️ 4chan Media Gallery 🖼️</strong>
+  <img src="/previews/banner.png?raw=true" width="700" alt="😭😭😭">
 </p>
 
 <p align="center">
