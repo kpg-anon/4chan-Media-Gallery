@@ -1,11 +1,9 @@
 <p align="center">
   <img src="/public/logo.png?raw=true" width="450" alt="😭😭😭">
 </p>
-
 <p align="center">
   <img src="/previews/banner.png?raw=true" width="700" alt="😭😭😭">
 </p>
-
 <p align="center">
   <em>4chan Media Gallery is a fusker used to aggregate and display images and videos from various 4chan boards</em>
 </p>
@@ -59,7 +57,7 @@
 	```
 	npm start
 	```
-2. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery.
+2. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery. Search accepts multiple terms like `<term1>|<term2>`.
 
 | Hotkey |                 Action                 |
 |:------:|:--------------------------------------:|
