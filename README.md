@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>4chan Media Gallery is a fusker used to fetch and display images from various 4chan boards</em>
+  <em>4chan Media Gallery is a fusker used to aggregate and display images and videos from various 4chan boards</em>
 </p>
 
 ## Features
