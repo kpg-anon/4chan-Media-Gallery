@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 64px; color: #333;">🖼️ 4chan Media Gallery 🖼️</strong>
+  <strong>🖼️ 4chan Media Gallery 🖼️</strong>
 </p>
 
-4chan Media Gallery is a fusker used to fetch and display images from various 4chan boards
+<p align="center">
+  <strong>4chan Media Gallery is a fusker used to fetch and display images from various 4chan boards</strong>
+</p>
 
 ## Features
 - [x] Pull media from multiple boards (only mu and trash supported by default)
