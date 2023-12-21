@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 24px; color: #333;">🖼️ 4chan Media Gallery 🖼️</strong>
+  <strong style="font-size: 64px; color: #333;">🖼️ 4chan Media Gallery 🖼️</strong>
 </p>
 
 4chan Media Gallery is a fusker used to fetch and display images from various 4chan boards
