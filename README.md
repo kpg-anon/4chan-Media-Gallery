@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1>🖼️ 4chan Media Gallery 🖼️</h1>
+  <strong style="font-size: 24px; color: #333;">🖼️ 4chan Media Gallery 🖼️</strong>
 </p>
 
 4chan Media Gallery is a fusker used to fetch and display images from various 4chan boards
@@ -16,19 +16,19 @@
 - [x] Gallery Mode
 
 <p align="center">
-  <img src="/previews/homepage.jpg?raw=true" width="450" alt="😭😭😭">
+  <img src="/previews/homepage.jpg?raw=true" width="600" alt="😭😭😭">
 </p>
 <p align="center">
-  <img src="/previews/searchpage.jpg?raw=true" width="450" alt="😭😭😭">
+  <img src="/previews/searchpage.jpg?raw=true" width="600" alt="😭😭😭">
 </p>
 <p align="center">
-  <img src="/previews/imagehover.jpg?raw=true" width="450" alt="😭😭😭">
+  <img src="/previews/imagehover.jpg?raw=true" width="600" alt="😭😭😭">
 </p>
 <p align="center">
-  <img src="/previews/videopreview.jpg?raw=true" width="450" alt="😭😭😭">
+  <img src="/previews/videopreview.jpg?raw=true" width="600" alt="😭😭😭">
 </p>
 <p align="center">
-  <img src="/previews/gallerymode.jpg?raw=true" width="450" alt="😭😭😭">
+  <img src="/previews/gallerymode.jpg?raw=true" width="600" alt="😭😭😭">
 </p>
 
 ## 🛠️ Requirements 🛠️
