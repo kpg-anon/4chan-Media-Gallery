@@ -55,11 +55,11 @@
     ```
 
 ## 💻 Usage 💻
-Start the server by running:
+1. Start the server:
 	```
 	npm start
 	```
-Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery.
+2. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery.
 
 | Hotkey |                 Action                 |
 |:------:|:--------------------------------------:|
