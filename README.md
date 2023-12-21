@@ -51,13 +51,13 @@
 	npm start
 	```
 2. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery. Search accepts multiple terms like `<term1>|<term2>`.
-<div align="center">
+
 | Hotkey |                 Action                 |
 |:------:|:--------------------------------------:|
 | Alt+G  | Activate gallery mode                  |
 | S      | Save media on thumbnail hover or in gallery      |
 | Esc    | Exit gallery                           |
-</div>
+
 ## TODO
 
 - [ ] add gui support for additional boards
