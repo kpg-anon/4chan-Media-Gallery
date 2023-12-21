@@ -15,21 +15,11 @@
 - [x] Gif/Webm support
 - [x] Gallery Mode
 
-<p align="center">
-  <img src="/previews/homepage.jpg?raw=true" width="600" alt="😭😭😭">
-</p>
-<p align="center">
-  <img src="/previews/searchpage.jpg?raw=true" width="600" alt="😭😭😭">
-</p>
-<p align="center">
-  <img src="/previews/imagehover.jpg?raw=true" width="600" alt="😭😭😭">
-</p>
-<p align="center">
-  <img src="/previews/videopreview.jpg?raw=true" width="600" alt="😭😭😭">
-</p>
-<p align="center">
-  <img src="/previews/gallerymode.jpg?raw=true" width="600" alt="😭😭😭">
-</p>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![Homepage](/previews/homepage.jpg?raw=true "Homepage") | | |
+| ![Search Page](/previews/searchpage.jpg?raw=true "Search Page") | ![Image Hover](/previews/imagehover.jpg?raw=true "Image Hover") | |
+| ![Video Preview](/previews/videopreview.jpg?raw=true "Video Preview") | ![Gallery Mode](/previews/gallerymode.jpg?raw=true "Gallery Mode") | |
 
 ## 🛠️ Requirements 🛠️
 - git
