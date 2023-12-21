@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>4chan Media Gallery</title>
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/css/gallery.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/favicon.png">
+</head>
+<body>
+    <div class="<% if(mediaDetails && mediaDetails.length > 0) { %>container search-made<% } else { %>container homepage<% } %>">
+        <header>
+            <% if(!mediaDetails || mediaDetails.length === 0) { %>
+            <img src="/logo.png" alt="Logo" class="logo">
+            <% } %>
+            <h1>4chan Media Gallery</h1>
+        </header>
+        <main>
+            <div class="search-bar">
+                <form id="search-form" action="/search" method="get">
+                    <input type="text" id="search-input" name="search" placeholder="Enter search terms..." value="<%= searchTerms %>">
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+            <div id="gallery">
+                <% if(mediaDetails && mediaDetails.length > 0) { %>
+                    <% mediaDetails.forEach(media => { %>
+                        <div class="media-item">
+                            <a href="/proxy?url=<%= encodeURIComponent(media.mediaLink) %>&filename=<%= encodeURIComponent(media.originalFilename) %>" target="_blank">
+                                <img src="/proxy?url=<%= encodeURIComponent(media.thumbnailLink) %>" alt="<%= media.originalFilename %>">
+                            </a>
+                            <p><%= media.originalFilename %></p>
+                        </div>
+                    <% }); %>
+                <% } else if(searchTerms) { %>
+                    <p>No media found. Try a different search term.</p>
+                <% } %>
+            </div>
+        </main>
+    </div>
+    <script src="/js/main.js"></script>
+    <script src="/js/gallery.js"></script>
+</body>
+</html>
