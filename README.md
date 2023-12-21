@@ -11,7 +11,7 @@
 </p>
 
 ## Features
-- [x] Pull media from multiple boards (only mu and trash supported by default)
+- [x] Fetch media from multiple boards (only mu and trash supported by default)
 - [x] Download files with original filenames
 - [x] Media preview on hover
 - [x] Gif/Webm support
