@@ -34,9 +34,9 @@
 </p>
 
 ## 🛠️ Requirements 🛠️
+- git
 - node.js ≥12.0
 - npm ≥6.0
-- git
 
 ## 📥 Installation 📥
 1. Clone the repository:
