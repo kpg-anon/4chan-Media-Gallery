@@ -64,7 +64,7 @@
 | Hotkey |                 Action                 |
 |:------:|:--------------------------------------:|
 | Alt+G  | Activate gallery mode                  |
-| S      | Save media on hover or in gallery      |
+| S      | Save media on thumbnail hover or in gallery      |
 | Esc    | Exit gallery                           |
 
 ## TODO
