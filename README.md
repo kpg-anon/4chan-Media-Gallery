@@ -14,7 +14,7 @@
 - [x] Media preview on hover
 - [x] Gif/Webm support
 - [x] Gallery Mode
-
+<p align="center">
   <img src="/previews/homepage.jpg?raw=true" alt="Homepage">
 </p>
 
