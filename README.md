@@ -5,7 +5,7 @@
   <img src="/previews/banner.png?raw=true" width="700" alt="😭😭😭">
 </p>
 <p align="center">
-  <em>4chan Media Gallery is a fusker used to aggregate and display images and videos from various 4chan threads</em>
+  <em>4chan Media Gallery is a fusker used to aggregate and display images/videos from various 4chan threads</em>
 </p>
 
 ## ✨ Features 🚀
