@@ -45,7 +45,9 @@
 	npm start
 	```
 ## 🧑‍💻 Usage 💻
-1. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery. Search accepts multiple terms like `<term1>|<term2>`. In addition to the 'S' hotkey you can also just click on thumbnails to initiate download.
+1. Navigate to `http://localhost:3000` in your web browser to view and interact with the media gallery. 
+
+* Search accepts multiple terms like `<term1>|<term2>`. In addition to the 'S' hotkey, you can also just click on thumbnails to initiate download.
 
 | Hotkey |                 Action                 |
 |:------:|:--------------------------------------:|
