@@ -17,10 +17,12 @@
 <p align="center">
   <img src="/previews/homepage.jpg?raw=true" alt="Homepage">
 </p>
+
 | | |
 |:-------------------------:|:-------------------------:|
 | ![Search Page](/previews/searchpage.jpg?raw=true "Search Page") | ![Image Hover](/previews/imagehover.jpg?raw=true "Image Hover") |
 | ![Video Preview](/previews/videopreview.jpg?raw=true "Video Preview") | ![Gallery Mode](/previews/gallerymode.jpg?raw=true "Gallery Mode") |
+
 ## 📦 Requirements 🛠️
 - git
 - node.js ≥12.0
