@@ -9,7 +9,7 @@
 </p>
 
 ## ✨ Features 🚀
-- [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20 "*only mu and trash currently supported")
+- [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20 "*only mu and trash supported by default")
 - [x] Download files with original filenames
 - [x] Media preview on hover
 - [x] Gif/Webm support
