@@ -7,6 +7,7 @@
 <p align="center">
   <em>4chan Media Gallery is a fusker used to aggregate and display images/videos from various 4chan threads</em>
 </p>
+
 ## ✨ Features 🚀
 - [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20)
 - [x] Download files with original filenames
