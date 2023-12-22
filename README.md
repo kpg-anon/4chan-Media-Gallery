@@ -9,12 +9,12 @@
 </p>
 
 ## ✨ Features 🚀
-- [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20) <details><summary>&#8203;</summary>(only mu and trash supported by default)</details>
+- [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20)
 - [x] Download files with original filenames
 - [x] Media preview on hover
 - [x] Gif/Webm support
 - [x] Gallery Mode
-
+ <details><summary>&#8203;</summary>(only mu and trash supported by default)</details>
 <p align="center">
   <img src="/previews/homepage.jpg?raw=true" alt="Homepage">
 </p>
