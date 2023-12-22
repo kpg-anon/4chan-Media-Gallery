@@ -7,7 +7,6 @@
 <p align="center">
   <em>4chan Media Gallery is a fusker used to aggregate and display images/videos from various 4chan threads</em>
 </p>
-
 ## ✨ Features 🚀
 - [x] Fetch media from [multiple boards](https://github.com/kpg-anon/4chan-Media-Gallery/blob/main/server.js#L20)
 - [x] Download files with original filenames
@@ -18,12 +17,10 @@
 <p align="center">
   <img src="/previews/homepage.jpg?raw=true" alt="Homepage">
 </p>
-
 | | |
 |:-------------------------:|:-------------------------:|
 | ![Search Page](/previews/searchpage.jpg?raw=true "Search Page") | ![Image Hover](/previews/imagehover.jpg?raw=true "Image Hover") |
 | ![Video Preview](/previews/videopreview.jpg?raw=true "Video Preview") | ![Gallery Mode](/previews/gallerymode.jpg?raw=true "Gallery Mode") |
-
 ## 📦 Requirements 🛠️
 - git
 - node.js ≥12.0
